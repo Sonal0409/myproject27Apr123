@@ -8,6 +8,7 @@ mkdir myfile
 cdmyfiles
 ech0 "hello Sonal"
 
+<<<<<<< HEAD
 
 
 
@@ -15,3 +16,7 @@ ech0 "hello Sonal"
 Chnages in file
 
 new chnages in local
+=======
+Edureka gurst pushed his chnages
+
+
